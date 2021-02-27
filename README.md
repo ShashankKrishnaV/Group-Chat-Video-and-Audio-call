@@ -9,3 +9,5 @@ Once all the servers are ready, Client.py (in root folder) should be executed to
 
 IP addresses for serverMedia.py and Audio_server.py files should be explicitly typed while executing. The IP address given is same as computer’s local IP.
 
+Note: All files are written in Python. Also, install necessary modules by going through the files.
+
