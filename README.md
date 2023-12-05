@@ -1,4 +1,4 @@
-# Group-Chat-Video-and-Audio-call
+# Group-Chat-Along-With-Video-and-Audio-call
 This application combines three key functionalities: group chat, video calling, and audio calling. Please follow the specified "order of execution" steps before running the application.
 
 Execution Order:
